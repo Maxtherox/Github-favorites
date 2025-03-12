@@ -110,7 +110,7 @@ table th:last-child{
 }
 
 table tr:nth-child(odd){
-    background-color: #ddd;
+    background-color: #ffffff;
 }
 
 table tr:nth-child(even) {
